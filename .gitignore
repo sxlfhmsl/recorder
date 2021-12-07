@@ -30,4 +30,6 @@ api/protobuf
 internal/statik
 vendor
 *.exe
+*.gif
+*.syso
 !*protoc.exe
